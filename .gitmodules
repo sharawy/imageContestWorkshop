@@ -1,0 +1,3 @@
+[submodule "vendor/palanik/lumen-cors"]
+	path = vendor/palanik/lumen-cors
+	url = git://github.com/palanik/lumen-cors.git
